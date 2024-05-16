@@ -54,4 +54,4 @@ https://github.com/jmartinezc98/Omni.Pro_QA_Automation.git
 ### Autor:
 
 
-Elaborado por: Jhon Edison Marinez Caro.
+Elaborado por: Jhon Edison Martinez Caro.
