@@ -42,7 +42,7 @@ Para ejecutar las pruebas y generar un informe utilizando Mochawesome, se debe e
 ### Reporte de Ejecución:
 
 
-En el proyecto se incluye el archivo reportExecutionTest.html, que contiene el informe detallado de las pruebas realizadas. Este informe incluye capturas de pantalla, descripciones de casos y el estado del resultado final de los escenarios de prueba.
+En el proyecto se incluye el archivo **reportExecutionTest.html**, que contiene el informe detallado de las pruebas realizadas. Este informe incluye capturas de pantalla, descripciones de casos y el estado del resultado final de los escenarios de prueba.
 
 
 ### Repositorio:
